@@ -14,3 +14,8 @@ MAX Menu Map
 Visual map of all OutbackMAX advanced autosteering system screens, with parameters/selections for various screens.  
 Windows: File should open with no issues.  
 Linux: File should open with no issues.
+
+PFP Fundamentals  
+Financial planning training guide for financial planning representatives (custom project for one of our partners).  
+Windows: File should open with no issues.  
+Linux: File should open with no issues.
